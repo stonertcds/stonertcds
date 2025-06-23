@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @stonertcds
-- 👀 I’m interested in python, html, css, and javascript
+- 👀 I’m know python, html, css, and javascript
 - 📫 How to reach me: stonertcds on discord
 - 😄 Pronouns: He/Him
