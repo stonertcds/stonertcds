@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @stonertcds
-- 👀 I’m know python, html, css, and javascript
-- 📫 How to reach me: stonertgremm on discord
-- 😄 Pronouns: He/Him
+LAYERS DEV
+
+HOME OF WEBSITE
